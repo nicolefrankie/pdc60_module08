@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC60_Module08.MainPage">
+
+    <StackLayout>
+        <Button Text="Add Records" Clicked="OnAdd"/>
+        <Button Text="Refresh" Clicked="OnRefresh"/>
+        
+        <Entry x:Name="xUsername" Placeholder="Username"/>
+        <Entry x:Name="xPassword" Placeholder="Password"/>
+
+        <ListView x:Name="Post_List">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding ID}" Detail="{Binding Username}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
