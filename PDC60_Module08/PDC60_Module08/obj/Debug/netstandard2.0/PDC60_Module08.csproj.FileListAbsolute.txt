@@ -13,3 +13,4 @@ C:\Users\User\Desktop\Capuno_NicoleFrankie\PDC60_Module08\PDC60_Module08\PDC60_M
 C:\Users\User\Desktop\Capuno_NicoleFrankie\PDC60_Module08\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.dll
 C:\Users\User\Desktop\Capuno_NicoleFrankie\PDC60_Module08\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\refint\PDC60_Module08.dll
 C:\Users\User\Desktop\Capuno_NicoleFrankie\PDC60_Module08\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.pdb
+C:\Users\User\Desktop\Capuno_NicoleFrankie\PDC60_Module08\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\SearchPage.xaml.g.cs
