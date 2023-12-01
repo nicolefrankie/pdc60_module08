@@ -21,7 +21,7 @@ namespace PDC60_Module08
     }
     public partial class SearchPage : ContentPage
     {
-        private const string url_search = "http://172.16.21.112/pdc6/api-search.php";
+        private const string url_search = "http://172.16.26.173/pdc60/api-search.php";
         private HttpClient _Client = new HttpClient();
         private ObservableCollection<Post2> _posts;
         public SearchPage()
